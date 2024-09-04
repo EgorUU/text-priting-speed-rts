@@ -1,0 +1,20 @@
+.header {
+    &-container {
+        max-width: 1440px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        padding-left: 30px;
+        background-color: #706262;
+    }
+    &-button {
+        width: 135px;
+        height: 25px;
+        font-size: 10px;
+        background-color: #de8510;
+        transition: transform 0.4s ease-in-out;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+}
