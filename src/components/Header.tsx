@@ -8,7 +8,7 @@ const Header: FC<Props> = ({ getNum }) => {
     return (
         <header className="header">
             <div className="header-container">
-                <button className="header-button" onClick={() => getNum()}>Сгенерировать Новый Текст</button>
+                <button className="btn btn-warning btn-sm" onClick={() => getNum()}>Сгенерировать Новый Текст</button>
             </div>
         </header>
     )

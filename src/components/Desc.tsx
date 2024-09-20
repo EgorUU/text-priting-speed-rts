@@ -76,8 +76,8 @@ const Desc: FC<Props> = ({ num, getNum }) => {
                                 <div className="description-content__complete-game--info">
                                     <h1>Время : {countTimeValue} Секунд</h1>
                                     <h1 id="errors">{error} Ошибок</h1>
-                                    <h1>Результат : {(100 - (error / valueParagraf.length) * 100)}%</h1>
-                                    <button className="header-button" onClick={() => {getNum(); setComplete(false)}}>Сгенерировать Новый Текст</button>
+                                    <h1>Результат : {(100 - (error / valueParagraf.length) * 100).toFixed(0)}%</h1>
+                                    <button className="btn btn-info btn-sm" onClick={() => {getNum(); setComplete(false)}}>Сгенерировать Новый Текст</button>
                                 </div>
                                 <div className="button-disabled"></div>
                             </div>
