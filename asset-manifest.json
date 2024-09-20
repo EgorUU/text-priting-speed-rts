@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/text-priting-speed-rts/static/css/main.aa0c2de0.css",
-    "main.js": "/text-priting-speed-rts/static/js/main.0997b77e.js",
+    "main.css": "/text-priting-speed-rts/static/css/main.802b3204.css",
+    "main.js": "/text-priting-speed-rts/static/js/main.1e3d3766.js",
     "static/media/i.webp": "/text-priting-speed-rts/static/media/i.965f5eba61d3bf26c77d.webp",
     "index.html": "/text-priting-speed-rts/index.html",
-    "main.aa0c2de0.css.map": "/text-priting-speed-rts/static/css/main.aa0c2de0.css.map",
-    "main.0997b77e.js.map": "/text-priting-speed-rts/static/js/main.0997b77e.js.map"
+    "main.802b3204.css.map": "/text-priting-speed-rts/static/css/main.802b3204.css.map",
+    "main.1e3d3766.js.map": "/text-priting-speed-rts/static/js/main.1e3d3766.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa0c2de0.css",
-    "static/js/main.0997b77e.js"
+    "static/css/main.802b3204.css",
+    "static/js/main.1e3d3766.js"
   ]
 }
